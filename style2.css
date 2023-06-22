@@ -96,10 +96,10 @@ input {
 .game-block .a .ab{
     height: 20%;
     padding-top: 100%;
-    background-image: linear-gradient(rgba(80,80,80,0.5),rgba(80,80,80,0.5)), url(images/comming-soon.png);
+    background-image: url(images/gun_game_img.png);
     background-position: center;
-    background-repeat: none;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 270px;
     border-radius:5px;
 }
 .game-block .a .ac{
